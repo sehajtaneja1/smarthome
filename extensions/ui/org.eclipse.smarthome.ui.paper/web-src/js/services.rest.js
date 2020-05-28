@@ -711,4 +711,3 @@ angular.module('PaperUI.services.rest', [ 'PaperUI.constants', 'ngResource' ]).c
         }
     });
 });
-;

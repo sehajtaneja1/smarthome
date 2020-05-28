@@ -267,7 +267,7 @@
 			padding: 0 10px 0 5px;
 		}
 		&--group {
-			padding: 0 5px 0 5px;
+			padding: 0 5px;
 			font-weight: normal;
 		}
 		&--text-link {
@@ -275,7 +275,7 @@
 		}
 		&--switch,
 		&--slider {
-			padding: 0 10px 0 10px;
+			padding: 0 10px;
 		}
 	}
 	&__text {
@@ -285,8 +285,8 @@
 	}
 	&__webview,
 	&__video {
-		padding-left: 0px;
-		padding-right: 0px;
+		padding-left: 0;
+		padding-right: 0;
 		width: 100%;
 	}
 	&__buttons {
